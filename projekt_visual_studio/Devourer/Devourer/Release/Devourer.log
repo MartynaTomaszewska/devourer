@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  Main.cpp
+  Game.cpp
+Game.cpp(53): warning C4018: '>': signed/unsigned mismatch
+Game.cpp(85): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Game.cpp(86): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Game.cpp(87): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Game.cpp(90): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+  GameObject.cpp
+GameObject.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+GameObject.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+GameObject.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+GameObject.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+GameObject.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+GameObject.cpp(41): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+GameObject.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+GameObject.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+GameObject.cpp(147): warning C4552: '<': operator has no effect; expected operator with side-effect
+  Map.cpp
+Map.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  49 of 49 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Devourer.vcxproj -> C:\Studia\Projekty\Devourer\do_wyslania\projekt_visual_studio\Devourer\Release\Devourer.exe
+  Devourer.vcxproj -> C:\Studia\Projekty\Devourer\do_wyslania\projekt_visual_studio\Devourer\Release\Devourer.pdb (Full PDB)

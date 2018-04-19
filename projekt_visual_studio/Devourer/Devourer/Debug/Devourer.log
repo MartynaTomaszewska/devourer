@@ -1,0 +1,3 @@
+﻿Devourer.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Devourer.vcxproj -> C:\Studia\Projekty\Devourer\Devourer\Debug\Devourer.exe
+  Devourer.vcxproj -> C:\Studia\Projekty\Devourer\Devourer\Debug\Devourer.pdb (Full PDB)
